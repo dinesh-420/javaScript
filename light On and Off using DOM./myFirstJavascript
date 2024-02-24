@@ -1,1 +1,1 @@
-/
+This covers JavaScript variables, including declaration and assignment. It also explains the Document Object Model (DOM) fundamentals, such as accessing the document object, DOM tree structure, methods like getElementById, properties like textContent and style, and events like onclick. The DOM allows JavaScript to manipulate and style HTML elements on a webpage.
